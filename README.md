@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+   <img alt="npm" src="https://img.shields.io/badge/-ROR-CB3837?style=flat-square&logo=ROR&logoColor=white" />
+
 </p>
 
 

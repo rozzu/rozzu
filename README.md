@@ -1,6 +1,6 @@
 ### Hello, I'm Raheel Shahzad 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzaffar-Munir&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raheel-Shahzad&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 Here are some ideas to get you started:
 

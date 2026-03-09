@@ -1,7 +1,7 @@
-### Hello, I'm Raheel Shahzad 👋🏻
+### Hello, I'm Bilal Sadiq 👋🏻
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Raheel-Shahzad&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bilal-Sadiq&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
 ---
